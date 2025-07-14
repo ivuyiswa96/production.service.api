@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FKo93FQ7CDuwJxIq/BHDuDu6lIFIqJxcgzi5nrAnFrI=",
+  "Source": "production.service.api",
+  "BasePath": "_content/production.service.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
