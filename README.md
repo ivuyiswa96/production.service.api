@@ -38,7 +38,7 @@ Run the app app, the **Swagger UI** will appear.
 
 # Unit Testing
 
-This project includes a dedicated unit testing project to ensure the functionality of the Library Management System.
+This project includes a dedicated unit testing project to ensure the functionality of the api.
 
 ## Running the Tests
 
